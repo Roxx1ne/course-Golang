@@ -1,0 +1,1 @@
+//atur direktori gopath di environment
